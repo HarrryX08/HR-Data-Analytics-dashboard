@@ -1,16 +1,20 @@
 # HR-Data-Analytics-dashboard
 **1. Project Title**
    Vedakarna HR Data Analytics Dashboard
+
 **2. Purpose**
-  An interactive HR Analytics dashboard that provides insights into employee demographics, attrition, performance, attendance, and workforce trends to support data-driven HR decision-making
+  An interactive HR Analytics dashboard that provides insights into employee demographics, attrition, performance, attendance, and workforce trends to support data-driven HR decision making.
+
 **3. Tech Stack**
    Clean and transform HR Data using Power Query
    Create Power DAX Measure
    Design Professional KPI Cards
    Build Interactive charts and visuals
    Add Slicers and filters for dynamic analysis
+
 **4. Data Sources: **
 Sample HR Dataset(Vedakarna) provided for learning and analytics practice
+
 **5. Features and Highlights**
    An interactive Power BI dashboard built to help HR teams monitor workforce performance, employee attrition, and department-wise trends. The dashboard enables data-driven decision-making by providing insights into employee demographics, job satisfaction, salary distribution, and attrition pattern
    Features
